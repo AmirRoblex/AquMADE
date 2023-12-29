@@ -1,0 +1,950 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-1",
+        "EC": 1270.000000,
+        "Na": 1.400000,
+        "Cl": 0.800000,
+        "HCO3": 14.000000,
+        "SAR": 0.529000
+      },
+      "geometry": {
+        "coordinates": [45.0028264823921,38.6357442582279],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-2",
+        "EC": 980.000000,
+        "Na": 5.500000,
+        "Cl": 3.800000,
+        "HCO3": 3.700000,
+        "SAR": 3.667000
+      },
+      "geometry": {
+        "coordinates": [44.9574691070729,38.4141743012946],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-3",
+        "EC": 1790.000000,
+        "Na": 9.500000,
+        "Cl": 9.000000,
+        "HCO3": 3.500000,
+        "SAR": 4.581000
+      },
+      "geometry": {
+        "coordinates": [44.9638116111280,38.3979002630714],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-4",
+        "EC": 1940.000000,
+        "Na": 8.900000,
+        "Cl": 13.400000,
+        "HCO3": 3.300000,
+        "SAR": 3.848000
+      },
+      "geometry": {
+        "coordinates": [45.0313748368138,38.4423050216522],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-5",
+        "EC": 720.000000,
+        "Na": 3.300000,
+        "Cl": 2.600000,
+        "HCO3": 3.100000,
+        "SAR": 2.394000
+      },
+      "geometry": {
+        "coordinates": [44.9934242426658,38.4232481628325],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-6",
+        "EC": 3540.000000,
+        "Na": 24.000000,
+        "Cl": 23.600000,
+        "HCO3": 8.000000,
+        "SAR": 9.307000
+      },
+      "geometry": {
+        "coordinates": [44.9631733061073,38.4596519305117],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-7",
+        "EC": 1060.000000,
+        "Na": 6.000000,
+        "Cl": 5.000000,
+        "HCO3": 3.200000,
+        "SAR": 3.652000
+      },
+      "geometry": {
+        "coordinates": [45.0060693407822,38.3951389191296],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-8",
+        "EC": 1960.000000,
+        "Na": 16.000000,
+        "Cl": 12.200000,
+        "HCO3": 4.300000,
+        "SAR": 10.787000
+      },
+      "geometry": {
+        "coordinates": [44.9498927492841,38.4046453385671],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-9",
+        "EC": 3100.000000,
+        "Na": 21.800000,
+        "Cl": 18.000000,
+        "HCO3": 4.200000,
+        "SAR": 9.950000
+      },
+      "geometry": {
+        "coordinates": [45.0243927629862,38.4658826006095],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-10",
+        "EC": 2920.000000,
+        "Na": 22.600000,
+        "Cl": 14.600000,
+        "HCO3": 7.700000,
+        "SAR": 12.257000
+      },
+      "geometry": {
+        "coordinates": [44.8921923546287,38.3890602770097],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-11",
+        "EC": 770.000000,
+        "Na": 0.900000,
+        "Cl": 0.800000,
+        "HCO3": 5.700000,
+        "SAR": 0.481000
+      },
+      "geometry": {
+        "coordinates": [44.9665984525108,38.5879220792242],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-12",
+        "EC": 2250.000000,
+        "Na": 2.300000,
+        "Cl": 1.800000,
+        "HCO3": 22.000000,
+        "SAR": 0.680000
+      },
+      "geometry": {
+        "coordinates": [44.9280388122173,38.5790369153371],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-13",
+        "EC": 1680.000000,
+        "Na": 3.200000,
+        "Cl": 0.900000,
+        "HCO3": 14.400000,
+        "SAR": 1.157000
+      },
+      "geometry": {
+        "coordinates": [44.9572728430771,38.6495697714473],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-14",
+        "EC": 600.000000,
+        "Na": 0.600000,
+        "Cl": 0.300000,
+        "HCO3": 5.200000,
+        "SAR": 0.346000
+      },
+      "geometry": {
+        "coordinates": [44.8944847366854,38.5448468667320],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-15",
+        "EC": 1120.000000,
+        "Na": 1.500000,
+        "Cl": 0.500000,
+        "HCO3": 10.800000,
+        "SAR": 0.643000
+      },
+      "geometry": {
+        "coordinates": [44.9573457298521,38.6235433763676],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-16",
+        "EC": 840.000000,
+        "Na": 1.300000,
+        "Cl": 1.300000,
+        "HCO3": 5.700000,
+        "SAR": 0.671000
+      },
+      "geometry": {
+        "coordinates": [44.9772852922310,38.5610958722843],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-17",
+        "EC": 1500.000000,
+        "Na": 2.000000,
+        "Cl": 0.800000,
+        "HCO3": 14.200000,
+        "SAR": 0.721000
+      },
+      "geometry": {
+        "coordinates": [44.9842912302238,38.6460979253756],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-18",
+        "EC": 1370.000000,
+        "Na": 3.600000,
+        "Cl": 3.100000,
+        "HCO3": 9.100000,
+        "SAR": 1.571000
+      },
+      "geometry": {
+        "coordinates": [45.1555999129988,38.6967322642901],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-19",
+        "EC": 1520.000000,
+        "Na": 1.900000,
+        "Cl": 1.000000,
+        "HCO3": 13.100000,
+        "SAR": 0.678000
+      },
+      "geometry": {
+        "coordinates": [45.0376861900850,38.6572226011169],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-20",
+        "EC": 2570.000000,
+        "Na": 11.600000,
+        "Cl": 7.000000,
+        "HCO3": 17.500000,
+        "SAR": 3.899000
+      },
+      "geometry": {
+        "coordinates": [44.8164780859084,38.5349094113880],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-21",
+        "EC": 900.000000,
+        "Na": 1.900000,
+        "Cl": 0.600000,
+        "HCO3": 5.900000,
+        "SAR": 0.933000
+      },
+      "geometry": {
+        "coordinates": [44.8113063546744,38.5864770134453],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-22",
+        "EC": 500.000000,
+        "Na": 0.500000,
+        "Cl": 0.200000,
+        "HCO3": 4.300000,
+        "SAR": 0.330000
+      },
+      "geometry": {
+        "coordinates": [44.8514998305828,38.5385368561153],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-23",
+        "EC": 1850.000000,
+        "Na": 1.700000,
+        "Cl": 0.700000,
+        "HCO3": 19.200000,
+        "SAR": 0.536000
+      },
+      "geometry": {
+        "coordinates": [44.8622598277655,38.5881522029488],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-24",
+        "EC": 1330.000000,
+        "Na": 1.300000,
+        "Cl": 1.100000,
+        "HCO3": 12.200000,
+        "SAR": 0.491000
+      },
+      "geometry": {
+        "coordinates": [44.8566643000015,38.5784666010800],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-25",
+        "EC": 820.000000,
+        "Na": 1.100000,
+        "Cl": 0.800000,
+        "HCO3": 7.800000,
+        "SAR": 0.534000
+      },
+      "geometry": {
+        "coordinates": [44.7821879286596,38.6245830550983],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-26",
+        "EC": 710.000000,
+        "Na": 1.700000,
+        "Cl": 0.700000,
+        "HCO3": 5.600000,
+        "SAR": 1.025000
+      },
+      "geometry": {
+        "coordinates": [44.8693848061066,38.4578725946579],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-27",
+        "EC": 1240.000000,
+        "Na": 1.300000,
+        "Cl": 0.700000,
+        "HCO3": 11.000000,
+        "SAR": 0.524000
+      },
+      "geometry": {
+        "coordinates": [44.8363366337705,38.5967072405146],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-28",
+        "EC": 690.000000,
+        "Na": 1.500000,
+        "Cl": 0.600000,
+        "HCO3": 5.300000,
+        "SAR": 0.905000
+      },
+      "geometry": {
+        "coordinates": [44.8851833792337,38.4694067110417],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-29",
+        "EC": 740.000000,
+        "Na": 1.800000,
+        "Cl": 0.600000,
+        "HCO3": 5.800000,
+        "SAR": 1.066000
+      },
+      "geometry": {
+        "coordinates": [44.8625348727189,38.4678232185961],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-30",
+        "EC": 2270.000000,
+        "Na": 3.600000,
+        "Cl": 4.500000,
+        "HCO3": 14.900000,
+        "SAR": 1.116000
+      },
+      "geometry": {
+        "coordinates": [45.1015439401279,38.7234035494052],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-31",
+        "EC": 1870.000000,
+        "Na": 7.300000,
+        "Cl": 4.000000,
+        "HCO3": 15.000000,
+        "SAR": 2.789000
+      },
+      "geometry": {
+        "coordinates": [45.1089986000275,38.7083922016002],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-32",
+        "EC": 2040.000000,
+        "Na": 3.500000,
+        "Cl": 3.100000,
+        "HCO3": 15.600000,
+        "SAR": 1.145000
+      },
+      "geometry": {
+        "coordinates": [45.0986328845551,38.7313364044491],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-33",
+        "EC": 1810.000000,
+        "Na": 4.200000,
+        "Cl": 5.100000,
+        "HCO3": 9.200000,
+        "SAR": 1.576000
+      },
+      "geometry": {
+        "coordinates": [45.1558011028383,38.6887565310714],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-34",
+        "EC": 5980.000000,
+        "Na": 47.700000,
+        "Cl": 33.100000,
+        "HCO3": 9.600000,
+        "SAR": 16.361000
+      },
+      "geometry": {
+        "coordinates": [45.1258560151339,38.6603872208748],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-35",
+        "EC": 1070.000000,
+        "Na": 2.100000,
+        "Cl": 1.700000,
+        "HCO3": 8.300000,
+        "SAR": 1.001000
+      },
+      "geometry": {
+        "coordinates": [44.9960306000786,38.5257436846722],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-36",
+        "EC": 2950.000000,
+        "Na": 19.700000,
+        "Cl": 17.300000,
+        "HCO3": 10.500000,
+        "SAR": 9.087000
+      },
+      "geometry": {
+        "coordinates": [44.9277454622099,38.4476492119012],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-37",
+        "EC": 1680.000000,
+        "Na": 2.300000,
+        "Cl": 1.300000,
+        "HCO3": 11.500000,
+        "SAR": 0.787000
+      },
+      "geometry": {
+        "coordinates": [45.0929976824333,38.6709348133326],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-38",
+        "EC": 1290.000000,
+        "Na": 2.500000,
+        "Cl": 2.900000,
+        "HCO3": 8.000000,
+        "SAR": 1.066000
+      },
+      "geometry": {
+        "coordinates": [45.0324032683299,38.5638512737056],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-39",
+        "EC": 1510.000000,
+        "Na": 4.300000,
+        "Cl": 3.000000,
+        "HCO3": 11.000000,
+        "SAR": 1.748000
+      },
+      "geometry": {
+        "coordinates": [44.9659975900393,38.5228729698572],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-40",
+        "EC": 1120.000000,
+        "Na": 1.800000,
+        "Cl": 1.000000,
+        "HCO3": 9.200000,
+        "SAR": 0.771000
+      },
+      "geometry": {
+        "coordinates": [45.0785353937683,38.6488843321963],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-41",
+        "EC": 1300.000000,
+        "Na": 1.900000,
+        "Cl": 2.000000,
+        "HCO3": 9.100000,
+        "SAR": 0.760000
+      },
+      "geometry": {
+        "coordinates": [45.0556935063508,38.6094161716739],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-42",
+        "EC": 740.000000,
+        "Na": 0.700000,
+        "Cl": 0.300000,
+        "HCO3": 7.000000,
+        "SAR": 0.364000
+      },
+      "geometry": {
+        "coordinates": [44.8359502426814,38.5595952781362],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-43",
+        "EC": 1580.000000,
+        "Na": 6.000000,
+        "Cl": 2.800000,
+        "HCO3": 10.300000,
+        "SAR": 2.391000
+      },
+      "geometry": {
+        "coordinates": [45.0163254143413,38.5274999713057],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-44",
+        "EC": 3180.000000,
+        "Na": 7.500000,
+        "Cl": 7.600000,
+        "HCO3": 18.000000,
+        "SAR": 1.970000
+      },
+      "geometry": {
+        "coordinates": [45.1488440659312,38.7771709949090],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-45",
+        "EC": 8010.000000,
+        "Na": 10.500000,
+        "Cl": 25.000000,
+        "HCO3": 32.000000,
+        "SAR": 1.726000
+      },
+      "geometry": {
+        "coordinates": [45.1626615912359,38.7479095592721],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-46",
+        "EC": 3000.000000,
+        "Na": 9.100000,
+        "Cl": 4.300000,
+        "HCO3": 13.000000,
+        "SAR": 2.472000
+      },
+      "geometry": {
+        "coordinates": [45.1392797407615,38.7666120552073],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-47",
+        "EC": 2240.000000,
+        "Na": 10.000000,
+        "Cl": 5.300000,
+        "HCO3": 13.900000,
+        "SAR": 3.627000
+      },
+      "geometry": {
+        "coordinates": [45.1434690140224,38.7490521460584],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-48",
+        "EC": 5750.000000,
+        "Na": 13.700000,
+        "Cl": 17.400000,
+        "HCO3": 22.000000,
+        "SAR": 2.841000
+      },
+      "geometry": {
+        "coordinates": [45.1518197736386,38.7471761684364],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-49",
+        "EC": 1770.000000,
+        "Na": 8.100000,
+        "Cl": 3.800000,
+        "HCO3": 13.600000,
+        "SAR": 3.470000
+      },
+      "geometry": {
+        "coordinates": [45.1305892471617,38.7034766712119],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-50",
+        "EC": 990.000000,
+        "Na": 1.900000,
+        "Cl": 1.400000,
+        "HCO3": 7.000000,
+        "SAR": 0.922000
+      },
+      "geometry": {
+        "coordinates": [45.1234166946904,38.7458217975741],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-51",
+        "EC": 2820.000000,
+        "Na": 10.500000,
+        "Cl": 4.700000,
+        "HCO3": 27.100000,
+        "SAR": 3.124000
+      },
+      "geometry": {
+        "coordinates": [44.8076134797155,38.3994422777062],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-52",
+        "EC": 4400.000000,
+        "Na": 20.000000,
+        "Cl": 9.700000,
+        "HCO3": 41.000000,
+        "SAR": 5.105000
+      },
+      "geometry": {
+        "coordinates": [44.7999597539077,38.3924449503146],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-53",
+        "EC": 840.000000,
+        "Na": 3.300000,
+        "Cl": 1.000000,
+        "HCO3": 5.800000,
+        "SAR": 1.831000
+      },
+      "geometry": {
+        "coordinates": [44.9177170229362,38.4485708560691],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-54",
+        "EC": 780.000000,
+        "Na": 1.700000,
+        "Cl": 0.800000,
+        "HCO3": 5.400000,
+        "SAR": 0.966000
+      },
+      "geometry": {
+        "coordinates": [45.0575664763966,38.6822584858903],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-55",
+        "EC": 1160.000000,
+        "Na": 5.100000,
+        "Cl": 1.700000,
+        "HCO3": 8.000000,
+        "SAR": 2.634000
+      },
+      "geometry": {
+        "coordinates": [44.9011028022504,38.4381128541167],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-56",
+        "EC": 970.000000,
+        "Na": 3.300000,
+        "Cl": 0.700000,
+        "HCO3": 7.400000,
+        "SAR": 1.727000
+      },
+      "geometry": {
+        "coordinates": [44.9408054497097,38.6628010614603],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-57",
+        "EC": 1520.000000,
+        "Na": 4.200000,
+        "Cl": 2.900000,
+        "HCO3": 12.500000,
+        "SAR": 1.715000
+      },
+      "geometry": {
+        "coordinates": [44.8495477818093,38.4233951035821],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-58",
+        "EC": 2070.000000,
+        "Na": 2.400000,
+        "Cl": 6.900000,
+        "HCO3": 14.200000,
+        "SAR": 0.757000
+      },
+      "geometry": {
+        "coordinates": [44.8636248169550,38.5281426620690],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-59",
+        "EC": 800.000000,
+        "Na": 0.900000,
+        "Cl": 0.300000,
+        "HCO3": 6.700000,
+        "SAR": 0.465000
+      },
+      "geometry": {
+        "coordinates": [44.8974095994093,38.5700110772010],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-60",
+        "EC": 820.000000,
+        "Na": 0.700000,
+        "Cl": 0.500000,
+        "HCO3": 6.300000,
+        "SAR": 0.357000
+      },
+      "geometry": {
+        "coordinates": [45.1208280341276,38.6093580334502],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-61",
+        "EC": 1170.000000,
+        "Na": 3.200000,
+        "Cl": 2.400000,
+        "HCO3": 9.100000,
+        "SAR": 1.453000
+      },
+      "geometry": {
+        "coordinates": [44.8681290006123,38.4929104767078],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-62",
+        "EC": 940.000000,
+        "Na": 2.100000,
+        "Cl": 0.700000,
+        "HCO3": 7.600000,
+        "SAR": 1.070000
+      },
+      "geometry": {
+        "coordinates": [44.9408054497097,38.6628010614603],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "well-63",
+        "EC": 600.000000,
+        "Na": 1.500000,
+        "Cl": 0.600000,
+        "HCO3": 4.900000,
+        "SAR": 0.968000
+      },
+      "geometry": {
+        "coordinates": [44.9177170229362,38.4485708560691],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}

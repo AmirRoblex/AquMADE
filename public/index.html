@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link href='https://api.mapbox.com/mapbox-assembly/mbx/v0.18.0/assembly.min.css' rel='stylesheet'>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Basic</title>
+  </head>
+  <body>
+    <style>
+      .legend {
+      background-color: #fff;
+      border-radius: 3px;
+      bottom: 30px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+      font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+      padding: 10px;
+      position: absolute;
+      right: 10px;
+      z-index: 1;
+      }
+       
+      .legend h4 {
+      margin: 0 0 10px;
+      }
+       
+      .legend div span {
+      border-radius: 50%;
+      display: inline-block;
+      height: 10px;
+      margin-right: 5px;
+      width: 10px;
+      }
+      </style>
+       
+      <div id="map"></div>
+       
+      <div id="state-legend" class="legend">
+      <h4>RB-IWQI</h4>
+      <div><span style="background-color: #03ff5f"></span>100</div>
+      <div><span style="background-color: #03dc53"></span>85</div>
+      <div><span style="background-color: #3aa53f"></span>70</div>
+      <div><span style="background-color: #706e2c"></span>55</div>
+      <div><span style="background-color: #a63818"></span>40</div>
+      </div>
+    <div class="map-overlay" id="legend"></div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <script src='https://api.mapbox.com/mapbox-assembly/mbx/v0.18.0/assembly.js'></script>
+  </body>
+</html>

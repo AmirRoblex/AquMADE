@@ -1,0 +1,35 @@
+{
+  "name": "markers-default",
+  "version": "0.1.0",
+  "dependencies": {
+    "@turf/interpolate": "^6.5.0",
+    "@turf/turf": "^6.5.0",
+    "ahp": "^2.4.2",
+    "ahp-lite": "^1.2.1",
+    "javascript-lp-solver": "^0.4.24",
+    "mapbox-gl": "^1.11.1",
+    "mathjs": "^11.2.1",
+    "numericjs": "^1.2.6",
+    "python-bridge": "^1.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3",
+    "simple-simplex": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
